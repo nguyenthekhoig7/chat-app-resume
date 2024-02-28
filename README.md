@@ -15,4 +15,4 @@ Question 1 | Question 2
 
 For reference, here is my resume:
 
-![Resume](packages/rag-gemini-multi-modal/docs/img_1.jpg)
+![Resume](packages/rag-gemini-multi-modal/docs/resume.jpg)
